@@ -1,0 +1,4 @@
+ccxt
+pandas
+lxml
+python-telegram-bot
