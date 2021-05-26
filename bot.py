@@ -17,6 +17,8 @@ sleep_time = 10
 latest_news = 'POLS'
 
 post_message('Bot started!')
+news = get_news(url)
+latest_news = news[0]
 
 while True:
     """
